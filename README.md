@@ -92,7 +92,6 @@ project/
 
 ```bash
 git clone https://github.com/RohithaAiswarya16/Orderbook-Depth-3D-Visualizer
-cd project
 npm install
 npm run dev
 ```
